@@ -1,3 +1,3 @@
 public class Z {
-    private String name;
+    private int num;
 }
